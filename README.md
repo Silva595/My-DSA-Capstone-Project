@@ -18,3 +18,4 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
 ### Tools Used
 - Ms Excel for data cleaning (
 - SQL server for Querying and Analysis
+- Power BI for data transformation
