@@ -16,6 +16,4 @@ We proceeded to create a pivot table in order to profer solution to some of the 
 The primary source of Data here is Amazon Case Study.xlsx which was provided by the organizers of the Incubator hub
 
 ### Tools Used
-- Ms Excel for data cleaning (
-- SQL server for Querying and Analysis
-- Power BI for data transformation
+- Ms Excel for data cleaning (Pivot table and dashboard in Ms Excel)
