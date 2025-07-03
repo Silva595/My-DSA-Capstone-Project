@@ -16,4 +16,26 @@ We proceeded to create a pivot table in order to profer solution to some of the 
 The primary source of Data here is Amazon Case Study.xlsx which was provided by the organizers of the Incubator hub
 
 ### Tools Used
-- Ms Excel for data cleaning (Pivot table and dashboard in Ms Excel)
+- Ms Excel for data cleaning [Download here]()
+   1. data collection
+   2. data cleaning
+   3. data preparation
+ 
+  ### Data Collection, Cleaning and Preparation
+  During this phase we perform the following
+  1. Data loading and inspection
+  2. Look out for missing varables
+  3. Data cleaning and formatting
+
+  ### Explorative Data Analysis
+  This involves the use of data to answer some question such as; 
+  - What is the average discount percentage by product category?
+  - How many products are listed under each category?
+  - What is the total number of reviews per category?
+  - Which products have the highest number of reviews?
+  - What is the average actual price vs the discounted price by category?
+  - Which categories have products with the highest discounts?
+ 
+    ### Data Analysis
+  
+
