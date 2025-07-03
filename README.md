@@ -27,7 +27,7 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
   2. Look out for missing varables
   3. Data cleaning and formatting
 
-  ### Explorative Data Analysis
+  ### Exploratory Data Analysis
   This involves the use of data to answer some question such as; 
   - What is the average discount percentage by product category?
   - How many products are listed under each category?
