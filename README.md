@@ -32,9 +32,11 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
   4. Several new columns were created using multiple excel functions namely TEXT,LEFT,IF,AND,FIND,SUM.
   5. Data type was changed where necessary
   6. Currency signs were added where it involves money
-  7. 
+  7. Bar charts where added for visualizaion
+  8. 
   ### Exploratory Data Analysis
-  This involves the use of data to answer some question such as; 
+  
+  This process involves the use of functions, pivot tables and charts to answer some question such as; 
   - What is the average discount percentage by product category?
   - How many products are listed under each category?
   - What is the total number of reviews per category?
@@ -43,5 +45,8 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
   - Which categories have products with the highest discounts?
  
     ### Data Analysis
-  
-
+    
+  Functions were used in the process of this analysis
+  Discount range bucket =IF(K2>=50%,"50% or More","<50%")
+  Discount range =[@[Discount_percentage]]<=40%,"31-40%",IF([@[Discount_percentage]]<=50%,"41-50%",IF([@[Discount_percentage]]<=60%,"51-60%",IF([@[Discount_percentage]]<=70%,"61-70%",IF([@[Discount_percentage]]<=80%,"71-80%",IF([@[Discount_percentage]]<=90%,"81-90%","91-100%")))))))))
+  Average discount pecentage by product =([@[Actual_price]]-[@[Discounted_price]])/[@[Actual_price]]*100
