@@ -10,7 +10,7 @@ I also went on to create new columns while applng severl excel functions
 ### Project Overview
 This is a Data Analysis project aims at analyzing products and customer review data to generate insight that can
 guide product improvement, marketing strategies, and customer engagement.
-This project is a detailed Exploratory Data Analysis on an Amazon Product Review dataset involving data collection, data cleaning and processing, exploration of analysis and Visualizations.
+This project is a detailed Exploratory Data Analysis on Amazon Product Review dataset involving data collection, data cleaning and processing, exploration of analysis and Visualizations.
 
 The goal is to identify trends in pricing, discounts, and customer feedback and engagements through the rating and rating counts by products and category to support data-driven decision-making. Using Microsoft Excel, the project delivers key performance metrics and visualizations to highlight product performance and customer behavior while further creating new columns and applng several excel functions. We proceeded to create a pivot table in order to profer solution to some of the questions.
 
@@ -33,7 +33,7 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
   5. Data type was changed where necessary
   6. Currency signs were added where it involves money
   7. Bar charts where added for visualizaion
-  8. 
+     
   ### Exploratory Data Analysis
   
   This process involves the use of functions, pivot tables and charts to answer some question such as; 
@@ -47,6 +47,8 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
     ### Data Analysis
     
   Functions were used in the process of this analysis
-  Discount range bucket =IF(K2>=50%,"50% or More","<50%")
-  Discount range =[@[Discount_percentage]]<=40%,"31-40%",IF([@[Discount_percentage]]<=50%,"41-50%",IF([@[Discount_percentage]]<=60%,"51-60%",IF([@[Discount_percentage]]<=70%,"61-70%",IF([@[Discount_percentage]]<=80%,"71-80%",IF([@[Discount_percentage]]<=90%,"81-90%","91-100%")))))))))
-  Average discount pecentage by product =([@[Actual_price]]-[@[Discounted_price]])/[@[Actual_price]]*100
+  - Discount range bucket =IF(K2>=50%,"50% or More","<50%")
+  - Discount range =[@[Discount_percentage]]<=40%,"31-40%",IF([@[Discount_percentage]]<=50%,"41-50%",IF([@[Discount_percentage]]<=60%,"51-60%",IF([@[Discount_percentage]]<=70%,"61-70%",IF([@[Discount_percentage]]<=80%,"71-80%",IF([@[Discount_percentage]]<=90%,"81-90%","91-100%")))))))))
+  -  Average discount pecentage by product =([@[Actual_price]]-[@[Discounted_price]])/[@[Actual_price]]*100
+
+
