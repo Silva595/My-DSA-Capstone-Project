@@ -3,7 +3,7 @@
 This is the beginning of my portfolio building towards a success tech journey after my classes with the incubator hub
 I have been task with three diffeent aspect of the project, Excel, SQL and Powerbi. I choose to do the Excel and SQL section of the project.
 Started with the Excel project where I had to cleaned and structure the data.
-I also went on to create new columns while applng severl excel functions
+I also went on to create new columns while appling several excel functions
 
 ## Project Topic: Amazon Product Review Analysis
 
