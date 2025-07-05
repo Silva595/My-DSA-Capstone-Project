@@ -1,4 +1,4 @@
-# My-DSA-Capstone-Project
+# My_DSA_Capstone_Project
 
 This is the beginning of my portfolio building towards a success tech journey after my classes with the incubator hub
 I have been task with three diffeent aspect of the project, Excel, SQL and Powerbi. I choose to do the Excel and SQL section of the project.
