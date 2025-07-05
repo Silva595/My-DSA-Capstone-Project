@@ -8,11 +8,9 @@ I also went on to create new columns while applng severl excel functions
 ## Project Topic: Amazon Product Review Analysis
 
 ### Project Overview
-This is a Data Analysis project aims at analyzing products and customer review data to generate insight that can
-guide product improvement, marketing strategies, and customer engagement.
-This project is a detailed Exploratory Data Analysis on Amazon Product Review dataset involving data collection, data cleaning and processing, exploration of analysis and Visualizations.
+This is a Data Analysis project of RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon and as a Junior Data Analyst at the company, Amazon product review data was analyzed. Involving data collection, data cleaning and processing, exploration of analysis and Visualizations.
 
-The goal is to identify trends in pricing, discounts, and customer feedback and engagements through the rating and rating counts by products and category to support data-driven decision-making. Using Microsoft Excel, the project delivers key performance metrics and visualizations to highlight product performance and customer behavior while further creating new columns and applng several excel functions. We proceeded to create a pivot table in order to profer solution to some of the questions.
+The aim is to analyze products and customer review data to generate insight that can guide product improvement, marketing strategies, and customer engagement. Also to identify trends in pricing, discounts, engagements through the rating and rating counts by products and category to support data-driven decision-making. Using Microsoft Excel, the project delivers key performance metrics and visualizations to highlight product performance and customer behavior while further creating new columns and applng several excel functions. 
 
 ### Data Sources
 The primary source of Data here is Amazon Case Study.xlsx which was provided by the facilitators of the Incubator hub for educational purpose.
