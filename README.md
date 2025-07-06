@@ -49,4 +49,10 @@ The primary source of Data here is Amazon Case Study.xlsx which was provided by 
   - Discount range =[@[Discount_percentage]]<=40%,"31-40%",IF([@[Discount_percentage]]<=50%,"41-50%",IF([@[Discount_percentage]]<=60%,"51-60%",IF([@[Discount_percentage]]<=70%,"61-70%",IF([@[Discount_percentage]]<=80%,"71-80%",IF([@[Discount_percentage]]<=90%,"81-90%","91-100%")))))))))
   -  Average discount pecentage by product =([@[Actual_price]]-[@[Discounted_price]])/[@[Actual_price]]*100
 
+### About ME
+
+Hi, I'm Odunze Happiness Silva, with a Bsc in Economics and also an aspiring Data Analyst.
+- Email: [click here](happinesssilva@gmail.com)
+- LinkedIn:[click here](https://www.linkedin.com/in/odunze-happiness-680984170/)
+- Contact me: +2348185736223
 
